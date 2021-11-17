@@ -13,8 +13,8 @@ import (
 	"github.com/pingcap/errors"
 	uuid "github.com/satori/go.uuid"
 	"github.com/siddontang/go-log/log"
-	"github.com/siddontang/go-mysql/client"
-	. "github.com/siddontang/go-mysql/mysql"
+	"github.com/SisyphusSQ/go-mysql/client"
+	. "github.com/SisyphusSQ/go-mysql/mysql"
 )
 
 var (
